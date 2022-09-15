@@ -13,7 +13,7 @@
 --------
 # Promotional Website Ideas
 
-#### [] Website promoting pencil cases
+#### Website promoting pencil cases
 #### Website promoting selling antique furniture 
 #### Website promoting real estate 
 #### Website promoting selling used technology 
