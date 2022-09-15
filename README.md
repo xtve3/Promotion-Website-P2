@@ -27,3 +27,4 @@
 #### Images 
 #### Contact information
 #### Attach any needed links 
+#### Color pallete
