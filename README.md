@@ -28,3 +28,4 @@
 #### Contact information
 #### Attach any needed links 
 #### Color pallete
+#### Every website needs 3 pages, and each page needs at least 5 things related to the main idea
