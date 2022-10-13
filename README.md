@@ -17,7 +17,7 @@
 #### Website promoting selling antique furniture 
 #### Website promoting real estate 
 #### Website promoting selling used technology 
-#### Website promoting Andrew Tate
+#### [x] <del> Website promoting Andrew Tate </del> 
 
 --------
 ### Everything the website needs to at least have
